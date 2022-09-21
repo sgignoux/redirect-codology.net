@@ -1,6 +1,7 @@
 # Redirects from what the browser requests to what we serve
 /                                      https://codology.net/
 /post/sicp-solution-exercise-2-5/      https://codology.net/post/sicp-solution-exercise-2-5/
+/post/SICP-Solution-Exercise-2-5/      https://codology.net/post/sicp-solution-exercise-2-5/
 
 
 
